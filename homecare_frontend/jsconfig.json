@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "jsx": "preserve", ///Linea de prueba para solucionar error
     "target": "es5",
     "module": "esnext",
     "baseUrl": "./",
